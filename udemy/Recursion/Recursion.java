@@ -1,4 +1,4 @@
-package udemy;
+package udemy.Recursion;
 
 public class Recursion {
 

@@ -1,4 +1,4 @@
-package udemy;
+package udemy.Recursion;
 
 public class Fibbinochi {
     public static void main(String[] args) {
