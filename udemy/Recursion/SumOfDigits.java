@@ -2,7 +2,6 @@ package udemy.Recursion;
 
 public class SumOfDigits {
     public static void main(String[] args) {
-//        System.out.println(findSumDigits(152));
         System.out.println(findSumDigits2(-120));
     }
 
